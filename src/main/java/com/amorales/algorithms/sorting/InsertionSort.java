@@ -1,11 +1,10 @@
 package com.amorales.algorithms.sorting;
 
+import static com.amorales.algorithms.sorting.Sort.*;
 /**
  * @author Alex
  * @since 03.03.2015
  */
-
-import static com.amorales.algorithms.sorting.Sort.*;
 
 /**
  * Contains method for sorting array using Insertion sort algorithm
